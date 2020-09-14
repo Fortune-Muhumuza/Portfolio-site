@@ -4,7 +4,7 @@ html{
 }
 
 body{
-  font-family: 'Ubuntu', sans-serif;margin: 0;
+  font-family: 'Kumbh Sans', sans-serif;
 }
 
 .fakeImages{
@@ -30,7 +30,7 @@ body{
   }
 
   .horizontalNav li:hover{
-      background-color: chartreuse;
+      background-color: #0077e6;
       
   }
 
@@ -84,24 +84,31 @@ footer{
     background-color: darkblue;
     color: gray;
     text-align: center;
+
+}
+
+footerContacts{
+  text-decoration: none;
 }
 
 #welcome_h2{
-    background-color: teal;
+    background-color: #0077e6;
 padding: 15px;
 margin: auto;
+text-align: center;
 
 }
 
 .mainDiv{
-    background-color: thistle;
+    background-color: #e6f3ff;
     margin-left: 30px;
     margin-right: 30px;
     box-shadow: black;
+    box-shadow: 0 6px 6px 4px rgba(0,0,0,.2);
 }
 
 .main1{
-    background-color: lightgrey;
+    background-color: #e6e6ff;
 }
 
 .emailContact{
