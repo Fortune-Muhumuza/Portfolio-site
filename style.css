@@ -17,15 +17,15 @@ body{
     list-style-type: none;
     text-align: center;
     margin: 0;
-    padding: 0;
+    padding: 4px;
     box-shadow: 0 6px 4px 0 rgba(0,0,0,.2);
     cursor: pointer;
   }
   
   .horizontalNav li {
     display: inline-block;
-    font-size: 20px;
-    padding: 20px;
+    font-size: 16px;
+    padding: 12px;
     transition: 0.5s;
   }
 
@@ -81,7 +81,7 @@ color: black;
 
 footer{
     padding: 100px;
-    background-color: darkblue;
+    background-color: #36344d;
     color: gray;
     text-align: center;
 
@@ -92,11 +92,11 @@ footerContacts{
 }
 
 #welcome_h2{
-    background-color: #0077e6;
+    background-color: #cce6ff;
 padding: 15px;
 margin: auto;
+padding-left: 20px;
 text-align: center;
-
 }
 
 .mainDiv{
